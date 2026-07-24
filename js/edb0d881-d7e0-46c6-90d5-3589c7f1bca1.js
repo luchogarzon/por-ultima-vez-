@@ -5,7 +5,7 @@
   "use strict";
 
   /* ---- WhatsApp ---- */
-  var WA_NUMBER = "5493513294193";
+  var WA_NUMBER = "5493515908494";
   var WA_MSG = "Hola, quiero organizar una despedida con Por Última Vez. " +
                "Somos ___ personas, queremos viajar en fecha ___ y estamos " +
                "buscando una experiencia en Córdoba.";
